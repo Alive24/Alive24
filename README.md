@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![Alive24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alive24)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm... 
 
 #### ... Multilingual,
