@@ -1,16 +1,45 @@
 ### Hi there 👋
+### I'm... 
 
-<!--
-**alive24/alive24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### ... Multilingual,
+- Native in Mandarin, Cantonese, Teochew;
+- Academically and professionally proficient in English;
+- As hobbies and wishing to improve on French and Japanese;
 
-Here are some ideas to get you started:
+#### ... Somewhat digitally normadic,
+- Grew up in China;
+- Studied in Canada for undergrad and grad school;
+- Settled in London, UK;
+- Returns to China for around 3 months every year (in Beijing, Shenzhen, Chengdu, and other cities);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### ... Somewhat fullstack,
+- Smart Contracs in Rust, Solidity;
+- Backend in Python, TypeScript, Rust;
+- Frontend in TypeScript with React and Vue;
+- DevOps with GitHub Actions, Docker, Jenkins, AWS, 4everland;
+- Data Analysis in STATA, SPSS, scipy;
+- Embedded with MicroPython;
+- Desktop Software with PyQt, Python;
+
+#### ... Ex-teacher,
+- In both conventional and innovative education institutions;
+- Taught both conventional subjects (English, Maths, Physics, Chemistry, Biology) and PBL (Project Based Learning);
+- Designed and coordinated online coding camps;
+- Growth Mentor for individual development;
+
+#### ... Social Science student
+- Studies Sociology and plan to continue someday;
+- Exploring ways of participating in social movements that aspire to promote equity, prosperity, and social support;
+- Most influenced by Karl Marx, Max Weber, Michel Foucault, Edmund Husserl;
+
+#### ... Enthusiast in...
+- Amateur Digital Wind Instrument (Mostly Soprano Saxophone, Trumpet, Clarinet) and Electri Guitar (at a very very early stage);
+- Competitive First Person Shooting Games (Counter Strike 2);
+- Variety games;
+- Basketball and table tennis;
+- Consumer electronics and DIY;
+
+#### ... Supporter of
+- Open Source Community Software;
+- Activism for social organic integrity and against hate crimes and hate speech;
+- Gender equality and fluidity and affirmative actions;
