@@ -1,5 +1,7 @@
 ### Hi there 👋
-[![Alive24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alive24&hide_rank=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Alive24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alive24&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alive24)](https://github.com/anuraghazra/github-readme-stats)
 ### I'm... 
 
