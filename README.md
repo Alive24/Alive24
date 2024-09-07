@@ -48,4 +48,4 @@
 #### ... Supporter of
 - Open Source Community Software;
 - Activism for social organic integrity and against hate crimes and hate speech;
-- Gender equality and fluidity and affirmative actions;
+- Fenmisn, gender equality and fluidity, and affirmative actions;
