@@ -7,12 +7,12 @@
 
 ### I'm... 
 
-#### ... Multilingual,
+#### ... 🌐Multilingual,
 - Native in Mandarin, Cantonese, Teochew;
 - Academically and professionally proficient in English;
 - As hobbies and wishing to improve on French and Japanese;
 
-#### ... Somewhat digitally normadic,
+#### ... 🗺️Somewhat digitally normadic,
 - Grew up in China;
 - Studied in Canada for undergrad and grad school;
 - Settled in London, UK;
@@ -34,12 +34,12 @@
 - Growth Mentor for individual development;
 
 #### ... Social Science student
-- Studies Sociology and plan to continue someday;
+- Study Sociology and plan to continue someday;
 - Exploring ways of participating in social movements that aspire to promote equity, prosperity, and social support;
 - Most influenced by Karl Marx, Max Weber, Michel Foucault, Edmund Husserl;
 
 #### ... Enthusiast in...
-- Amateur Digital Wind Instrument (Mostly Soprano Saxophone, Trumpet, Clarinet) and Electri Guitar (at a very very early stage);
+- Amateur Digital Wind Instrument (Mostly Soprano Saxophone, Trumpet, Clarinet) and Electric Guitar (at a very very early stage😝);
 - Competitive First Person Shooting Games (Counter Strike 2);
 - Variety games;
 - Basketball and table tennis;
@@ -48,4 +48,4 @@
 #### ... Supporter of
 - Open Source Community Software;
 - Activism for social organic integrity and against hate crimes and hate speech;
-- Fenmisn, gender equality and fluidity, and affirmative actions;
+- Feminism, gender equality and fluidity, and affirmative actions;
