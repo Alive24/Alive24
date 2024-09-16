@@ -1,4 +1,7 @@
 ### Hi there 👋
+> I would update my availability on my GitHub profile [@Alive24](https://github.com/Alive24) if you failed to reach me on Telegram [@Aaaaaaaalive24]( https://t.me/Aaaaaaaalive24)
+>
+
 [![Alive24's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alive24&rank_icon=github&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 
