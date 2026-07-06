@@ -12,7 +12,7 @@ Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk
 - Ready to Use: Move, Daml
 
 ### AI
-- Used in Product: Codex / Claude Code, OpenAI Symphony, AWS Bedrock AgentCore
+- Used in Product: Codex / Claude Code / Cursor / Gemini & Antigravity, OpenAI Symphony, AWS Bedrock AgentCore
 - Read to Use: LangChain / LangGraph, Vercel AI / Eve,
 
 ### Backend
