@@ -11,6 +11,10 @@ Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk
 - Used In Production: TypeScript/JavaScript, Python, Rust, Solidity 
 - Ready to Use: Move, Daml
 
+### AI
+- Used in Product: Codex / Claude Code, OpenAI Symphony, AWS Bedrock AgentCore
+- Read to Use: LangChain / LangGraph, Vercel AI / Eve,
+
 ### Backend
 - Used in Production: Nest.js, FastAPI, tokio / axum, Serverless Functions (AWS Lamda, Netlify Functions), Tauri, SQL/NoSQL Databases, GraphQL, RESTful API, WebSocket
 - Ready to Use: Graph Databases
@@ -21,7 +25,7 @@ Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk
 
 ### DevOps
 - Used in Production: Docker, Docker Compose, AWS, CI/CD, CloudWatch
-
+- Ready to Use: Terraform
 
 ## I Shipped...
 
