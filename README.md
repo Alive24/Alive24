@@ -27,6 +27,10 @@ Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk
 - Used in Production: Docker, Docker Compose, AWS, CI/CD, CloudWatch
 - Ready to Use: Terraform
 
+### Blockchain
+- Used in Production: Ethereum, Hardhat, OpenZepplin, Solana, Anchor, Nervos Network / CKB, Bitcoin
+- Ready to Use: Sui
+
 ## I Shipped...
 
 ### Stable++ (https://www.stablepp.xyz/)
