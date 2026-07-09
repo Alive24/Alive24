@@ -6,6 +6,8 @@ My CV available at https://rxresu.me/alive24/chunteng-2026-uk-fullstack-ai
 
 Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk-blockchain
 
+You can also find my on [LinkedIn](https://www.linkedin.com/in/chunteng-xiao-b99763a4)!
+
 ## My Stacks include...
 ### Languages
 - Used In Production: TypeScript/JavaScript, Python, Rust, Solidity 
@@ -30,6 +32,19 @@ Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk
 ### Blockchain
 - Used in Production: Ethereum, Hardhat, OpenZepplin, Solana, Anchor, Nervos Network / CKB, Bitcoin
 - Ready to Use: Sui
+
+## I'm building with joy😆...
+
+### Shea Symphony (https://github.com/Alive24/shea-symphony)
+An opinionated and extended Rust implementation with GUI of OpenAI Symphony orchestration system to make it also work for powerusers or small engineer teams that want to build AI-nativeengineering workflows in a responsible and manageable way. 
+
+It adds higher configurability, observability, recoverability, and also new workflow nodes including issue forge, team-aware claiming and processing with boundaries, guided human review and approval, reflective backlogging, dreaming, etc.
+
+I started with the OpenAI Symphony SPEC.md with my stacks, preferences, judgement, and critical thinking model in building AI-native product, and add the extensibility, semantics, collaboration, and maintainability layer in the name of Shea.
+
+[2606 MVP](https://github.com/Alive24/shea-symphony/tree/2606-MVP) is already available as it powers its own development (and helped with my hackathon projects), and currently in engineering hardening (2607) milestone with Temporal. 
+
+Workflow Graph Extension milestone is planned for 2608.
 
 ## I Shipped...
 
