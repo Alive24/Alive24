@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chunteng Xiao (Alive24)
 
-Fullstack Product Engineer, 4 Year of Experience, Based in London.
+Fullstack Product Engineer, 3 Year of Experience, Based in London.
 
 My CV available at https://rxresu.me/alive24/chunteng-2026-uk-fullstack-ai
 
