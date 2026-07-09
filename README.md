@@ -2,7 +2,7 @@
 
 Fullstack Product Engineer, 3 Year of Experience, Based in London.
 
-My CV available at https://rxresu.me/alive24/chunteng-2026-uk-fullstack-ai
+My CV available at https://rxresu.me/alive24/chunteng-2026-uk-fullstack-ai-product
 
 Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk-blockchain
 
