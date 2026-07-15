@@ -6,7 +6,7 @@ My CV available at https://rxresu.me/alive24/chunteng-2026-uk-fullstack-ai-produ
 
 Another Blockchain-focused version at https://rxresu.me/alive24/chunteng-2026-uk-blockchain
 
-You can also find my on [LinkedIn](https://www.linkedin.com/in/chunteng-xiao-b99763a4)!
+You can also find me on [LinkedIn](https://www.linkedin.com/in/chunteng-xiao-b99763a4)!
 
 ## My Stacks include...
 ### Languages
